@@ -1,3 +1,3 @@
 # MDimage
-个人图床
-用于乌兹布雷的个人图床
+Myself images package
+for Wuzbre
